@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/U0958037/welcome-to-my-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/U0958037/welcome-to-my-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+<div id="head">
+<table width="1000"border="0"cellpadding="0"cellspacing="0">
+<tr>
+<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT28l20l0F4GLvIlfge26FK0EBEmwriMPG6SQ&usqp=CAU"width="1000"heigh="10"></td>
+</tr>
+<tr>
+<td align="center">國立聯合大學文創系黃文傑的網頁</td>
+</tr>
+</table>
+</div>
+<div id="nav1"><br>
+<table width="1000"border="0"cellpadding="0"cellspacing="1"bgcolor="#999999">
+<tr>
+<td align="left"bgcolor="ffffff"><a href="index.htm">作品集</a>　>
+<a href="index.htm'>電繪作品</a>　>
+photoshop作品
+</td>
+</tr>
+</table>
+</div>
+</body>
+</html>
